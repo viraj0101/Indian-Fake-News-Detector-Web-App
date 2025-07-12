@@ -131,5 +131,6 @@ The React app will typically open automatically in your browser at `http://local
 
 (Note: When running both frontend and backend locally, ensure your frontend's API calls are pointed to `http://localhost:5000` or whatever port your Flask backend is running on locally. For deployed versions, use the Railway URL.)
 
-Feel free to connect with me:
-[Rahil Patel](https://www.linkedin.com/in/rahilpatel1809/)
+⬤ Please do ⭐ the Repository, if it helped you in anyway.
+
+😊 Thankyou !! ✨
